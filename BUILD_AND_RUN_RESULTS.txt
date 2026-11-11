@@ -1,0 +1,74 @@
+Task01/Task01_parameter_passing.cpp
+Warnings: No compiler warnings.
+Output:
+1 12 13
+1 100
+16 13 6 
+after call by value   : 45000
+after call by reference: 40500
+
+
+Task02/Task02_return_reference.cpp
+Warnings: No compiler warnings.
+Output:
+Moderated highest mark: 94
+Const reference: 94, copy: 94
+Vector size after reserve: 3; reacquire references after growth
+
+
+Task03/Task03_overloading_defaults.cpp
+Warnings: No compiler warnings.
+Output:
+charge(2) [int grams] = 0.08
+charge(2.0) [double kg] = 80
+charge(2.0f) [float promotion] = 80
+charge(2.0,true) = 130
+charge(2.0,true,true) = 150
+charge(Parcel) = 130
+
+
+Task04/Task04_savings_account.cpp
+Warnings: No compiler warnings.
+Output:
+Mini statement account 20261001
+Credit 1.00
+Credit 2.00
+Credit 3.00
+Credit 4.00
+Credit 5.00
+Credit 6.00
+Credit 7.00
+Credit 8.00
+Credit 9.00
+Credit 10.00
+Balance Rs 5205.00
+
+
+Task05/Task05_static_bus_tickets.cpp
+Warnings: No compiler warnings.
+Output:
+101 103 104 4
+Asha: Seat 1
+Bala: Seat 2
+Chitra: Seat 3
+Dev: Waiting
+Issued: 3
+
+
+Task06/Task06_friend_inline_time.cpp
+Warnings: No compiler warnings.
+Output:
+205 false
+same time difference=0
+cross noon difference=10, earlier=true
+10M calls ms=45.2125 checksum=2050000000
+
+
+Task07/Task07_circular_redesign.cpp
+Warnings: No compiler warnings.
+Output:
+Insertions: 1000000, capacity: 10
+Shift array ms: 32.0274
+Circular buffer ms: 4.17966
+Latest values: 999999 999999
+Both O(10) space; full shift O(k) per insert, ring O(1).
